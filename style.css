@@ -265,6 +265,17 @@ video::-webkit-media-controls {
     font-weight: 400;
 
   }
+
+
+ #phone{
+    position: relative;
+    top: 40px;
+  }
+
+  #call-icon{
+    margin:0px 10px; 
+   
+  }
 /* <!-- -------------home section-------------- -->  */
 
 
